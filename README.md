@@ -51,4 +51,4 @@ Whether you're passionate about embedded systems, aerospace engineering, or sens
 Together, we keep the satellite on track — literally.
 
 
-![ADCS System Diagram](docs/diagrams/Block Diagram.png)
+![ADCS System Diagram](docs/diagrams/Block_Diagram.png)
