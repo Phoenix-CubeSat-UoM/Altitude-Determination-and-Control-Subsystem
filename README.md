@@ -49,3 +49,6 @@ Whether you're passionate about embedded systems, aerospace engineering, or sens
 - Working on a mission-critical system that determines success or failure in space  
 
 Together, we keep the satellite on track — literally.
+
+
+![ADCS System Diagram](docs/diagrams/Block Diagram.png)
